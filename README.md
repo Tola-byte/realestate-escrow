@@ -1,4 +1,4 @@
-# RealEstateEscrow
+# Real-Estate-Escrow
 
 [![Build Status](https://img.shields.io/badge/tests-passing-brightgreen.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
