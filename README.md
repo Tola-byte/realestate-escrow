@@ -15,17 +15,7 @@ An end-to-end example of a Solidity escrow contract for real-estate fundraising,
 4. [Getting Started](#getting-started)  
    - [Prerequisites](#prerequisites)  
    - [Installation](#installation)  
-   - [Environment Variables](#environment-variables)  
-5. [Usage](#usage)  
-   - [Compile Contracts](#compile-contracts)  
-   - [Run Local Node](#run-local-node)  
-   - [Deploy Contract](#deploy-contract)  
-   - [Interact via Scripts](#interact-via-scripts)  
-   - [Hardhat Console](#hardhat-console)  
-6. [Automated Tests](#automated-tests)  
-7. [Project Structure](#project-structure)  
-8. [Next Steps](#next-steps)  
-9. [License](#license)  
+5. [License](#license)  
 
 ---
 
